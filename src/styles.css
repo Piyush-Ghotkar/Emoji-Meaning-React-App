@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 0.5rem;
+  width: 70%;
+  display: block;
+  margin: auto;
+}
+
+body {
+  margin: 0px;
+}
+h1 {
+  background-color: yellow;
+  padding: 1rem;
+}
+
+.display {
+  padding: 1rem;
+  font-size: large;
+  font-weight: bold;
+}
+
+.list .item {
+  margin: 0.5rem;
+  padding: 0.2rem, 0.2rem;
+  cursor: pointer;
+  font-size: 1.5rem;
+}
